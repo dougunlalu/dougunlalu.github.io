@@ -15,7 +15,7 @@ I am a Master's student in Language Technology at Helsinki University. I am part
 ## Contact
 
 You can contact me through GitHub or email.
-
+[View my CV](assets/documents/CV.pdf)
 ## Courses I've Taken
 
 - [Command Line Tools for Linguists](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f)
